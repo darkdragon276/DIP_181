@@ -1,0 +1,3 @@
+/home/nam/Desktop/Nam/C++/CMakeFiles/rebuild_cache.dir
+/home/nam/Desktop/Nam/C++/CMakeFiles/build.dir
+/home/nam/Desktop/Nam/C++/CMakeFiles/edit_cache.dir
